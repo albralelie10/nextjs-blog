@@ -1,0 +1,22 @@
+
+
+.header{
+    padding:10px;
+    margin: 10 auto;
+    border:2px solid white;
+    border-radius:4px;
+}
+
+.navigation{
+    display:flex;
+    gap:40px;
+    justify-content: center;
+    align-items: center;
+    list-style-type:none;
+}
+.title{
+  
+    display:flex;
+    justify-content: center;
+}
+
